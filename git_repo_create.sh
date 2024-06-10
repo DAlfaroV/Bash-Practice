@@ -1,7 +1,7 @@
+# Input
 echo "> Insert repo name:"
 read reponame
 name="DAlfaroV"
-
 mkdir $reponame
 cd $reponame
 
